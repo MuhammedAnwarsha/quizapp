@@ -37,5 +37,4 @@ public class QuestionController {
 
         return questionService.deleteQuestionById(id);
     }
-    //sample commented
 }
